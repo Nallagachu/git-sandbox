@@ -12,3 +12,6 @@ creatig a new commit with in branch-3
     * dosa batter 
  *oil 
  
+1
+2
+3
