@@ -1,15 +1,7 @@
-#ENV 2 : testing new  branch-1
-#ENV3 : testing 2 new branch -2
-1
-2
-3
-4
-5
-6
-7
-8
-9
+Words That Click
 
-Technology is best when it brings people together.
+404: Inspiration Not Found... Just Kidding, Here It Is!
 
-"Talk is cheap. Show me the code".Linus Torvalds (Creator of Linux)
+The cloud is not just a place. It’s a way of doing IT.” – Paul Maritz
+
+The question is not whether intelligent machines can have any emotions, but whether machines can be intelligent without any emotions.” – Marvin Minsky
